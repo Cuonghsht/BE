@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("0ca7594c-8134-41ef-9f16-d5d633c60202")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AreneStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d5fc7e81edf6cd8056ebf8d8a1ea23b9ca4becc")]
 [assembly: System.Reflection.AssemblyProductAttribute("AreneStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AreneStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
