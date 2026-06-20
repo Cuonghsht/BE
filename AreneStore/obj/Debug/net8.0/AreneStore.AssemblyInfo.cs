@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AreneStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d5fc7e81edf6cd8056ebf8d8a1ea23b9ca4becc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7445660bd88c14d9b3cd67540ff5603105c43a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AreneStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AreneStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

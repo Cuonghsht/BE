@@ -1,4 +1,4 @@
-using AreneStore.Enity;
+﻿using AreneStore.Enity;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -12,11 +12,10 @@ builder.Services.Configure<Tele>(builder.Configuration.GetSection("Telegram"));
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowAngular",
-        policy => policy.WithOrigins("http://localhost:4200")
+        policy => policy.WithOrigins("https://new-1nw9.vercel.app") // Thay localhost bằng link Vercel
                         .AllowAnyHeader()
                         .AllowAnyMethod());
 });
-
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

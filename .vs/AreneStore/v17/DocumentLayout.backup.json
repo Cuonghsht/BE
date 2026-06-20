@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\FacebookSuport\\AreneStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5226847-B222-4122-9598-3467522B71D6}|AreneStore\\AreneStore.csproj|c:\\users\\admin\\desktop\\facebooksuport\\arenestore\\arenestore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5226847-B222-4122-9598-3467522B71D6}|AreneStore\\AreneStore.csproj|solutionrelative:arenestore\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5226847-B222-4122-9598-3467522B71D6}|AreneStore\\AreneStore.csproj|c:\\users\\admin\\desktop\\facebooksuport\\arenestore\\arenestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5226847-B222-4122-9598-3467522B71D6}|AreneStore\\AreneStore.csproj|solutionrelative:arenestore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,19 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\FacebookSuport\\AreneStore\\AreneStore\\Dockerfile",
+              "RelativeDocumentMoniker": "AreneStore\\Dockerfile",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\FacebookSuport\\AreneStore\\AreneStore\\Dockerfile",
+              "RelativeToolTip": "AreneStore\\Dockerfile",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwB0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-20T04:22:04.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\FacebookSuport\\AreneStore\\AreneStore\\Program.cs",
               "RelativeDocumentMoniker": "AreneStore\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\FacebookSuport\\AreneStore\\AreneStore\\Program.cs",
               "RelativeToolTip": "AreneStore\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T07:23:16.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Tele.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\FacebookSuport\\AreneStore\\AreneStore\\Enity\\Tele.cs",
               "RelativeDocumentMoniker": "AreneStore\\Enity\\Tele.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\FacebookSuport\\AreneStore\\AreneStore\\appsettings.Development.json",
               "RelativeDocumentMoniker": "AreneStore\\appsettings.Development.json",
@@ -67,12 +84,11 @@
               "RelativeToolTip": "AreneStore\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-19T07:21:52.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T07:21:52.09Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "OrderController.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\FacebookSuport\\AreneStore\\AreneStore\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "AreneStore\\Controllers\\OrderController.cs",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\FacebookSuport\\AreneStore\\AreneStore\\Enity\\Order.cs",
               "RelativeDocumentMoniker": "AreneStore\\Enity\\Order.cs",
@@ -92,8 +108,7 @@
               "RelativeToolTip": "AreneStore\\Enity\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T07:11:05.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-19T07:11:05.122Z"
             }
           ]
         }
